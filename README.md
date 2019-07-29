@@ -1,10 +1,11 @@
 # svrmodpack
 DorianTech SVR.JS Mods packer/unpacker library
-## Functions
 
-**pack(inputFiles,outputFile,[infoFile])**
+# Functions:
 
-Packs SVRMod.
+## pack(inputFiles,outputFile,[infoFile])
+
+**Packs SVRMod.**
 
 *arguments:*
 
@@ -16,9 +17,11 @@ infoFile --- Optional: Mod info file.
 
 
 
-**unpack(inputFile,outputDir,[infoFile])**
 
-Packs SVRMod.
+
+## unpack(inputFile,outputDir,[infoFile])
+
+**Unpacks SVRMod.**
 
 *arguments:*
 
