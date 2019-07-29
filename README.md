@@ -7,7 +7,6 @@ DorianTech SVR.JS Mods packer/unpacker library
 Packs SVRMod.
 
 *arguments:*
-
 inputFiles --- Input files array.
 
 outputFile --- Output file.
