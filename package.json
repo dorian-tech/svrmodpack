@@ -1,0 +1,19 @@
+{
+  "name": "svrmodpack",
+  "version": "1.0.0",
+  "description": "DorianTech SVR.JS Mods packer/unpacker library ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorian-tech/svrmodpack.git"
+  },
+  "author": "Dorian Niemiec <niemiecdorian2008@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/dorian-tech/svrmodpack/issues"
+  },
+  "homepage": "https://github.com/dorian-tech/svrmodpack#readme"
+}
